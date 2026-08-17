@@ -1,0 +1,823 @@
+[
+ {
+  "name": "Anne-Marie Dussaix",
+  "institution_key": "essec",
+  "role": "Emeritus Professor"
+ },
+ {
+  "name": "Canberk Ucel",
+  "institution_key": "essec",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Christoph Mueller-bloch",
+  "institution_key": "essec",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Christophe Harrer",
+  "institution_key": "essec",
+  "role": "Adjunct Professor"
+ },
+ {
+  "name": "Cristina Alaimo",
+  "institution_key": "essec",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "David Avison",
+  "institution_key": "essec",
+  "role": "Distinguished Emeritus Professor"
+ },
+ {
+  "name": "Diego Delle Donne",
+  "institution_key": "essec",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Dominique Briolat",
+  "institution_key": "essec",
+  "role": "Emeritus Professor"
+ },
+ {
+  "name": "Emiliano Traversi",
+  "institution_key": "essec",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Felix Papier",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Fouad El Ouardighi",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Frank Chan",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Guillaume Chevillon",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Guillaume Lecue",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Harris Kyriakou",
+  "institution_key": "essec",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Isabelle Wattiau",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Ivana Ljubic",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Jan Ondrus",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Jean-Pierre Indjehagopian",
+  "institution_key": "essec",
+  "role": "Distinguished Emeritus Professor"
+ },
+ {
+  "name": "Jeremy Heng",
+  "institution_key": "essec",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Jeroen Rombouts",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Julien Malaurent",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Kamélia Daudel",
+  "institution_key": "essec",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Lars Andraschko",
+  "institution_key": "essec",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Lauren Waardenburg",
+  "institution_key": "essec",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Laurent Alfandari",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Maria Allayioti",
+  "institution_key": "essec",
+  "role": "Professor of Management Practice"
+ },
+ {
+  "name": "Marie Kratz",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Mikolaj Kasprzak",
+  "institution_key": "essec",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Mohamed Ndaoud",
+  "institution_key": "essec",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Nicolas Prat",
+  "institution_key": "essec",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Olga Klopp",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Philippe Pierre Dornier",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Pierre Alquier",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Pierre Jacob",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Roberto Reno",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Sara Rezaee Vessal",
+  "institution_key": "essec",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Thomas Huber",
+  "institution_key": "essec",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Vincenzo Esposito Vinzi",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Xingang Wen",
+  "institution_key": "essec",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Yan Li",
+  "institution_key": "essec",
+  "role": "Professor"
+ },
+ {
+  "name": "Agneta Ranerup",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Alan Said",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Aleksandre Asatiani",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Alexander Herwix",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Andreas Nilsson",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Anna af Hällström",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Arvid Lunde",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Bo Dahlbom",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Carl Heath",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Charlotta Kronblad",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Daniel Curto-Millet",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Dante Sundqvist",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Dick Stenmark",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Dina Koutsikouri",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Fredrik Svahn",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Jabbar Hussain",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Jacob Torell",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Jan Canbäck Ljungberg",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Johan Magnusson",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Jonas Ivarsson",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Jonas Landgren",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Juho Lindman",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Khwaja Naveed",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Klara Källström",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Kristian Norling",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Lisen Selander",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Marie Eneman",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Nataliya Berbyuk Lindström",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Olgerta Tona",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Rickard Lindgren",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Robert Åhlén",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Tomas Lindroth",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Urban Nuldén",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Vasili Mankevich",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Yixin Zhang",
+  "institution_key": "gu",
+  "role": ""
+ },
+ {
+  "name": "Alok Gupta",
+  "institution_key": "warwick",
+  "role": "WBS Distinguished Research Environment Professor"
+ },
+ {
+  "name": "Amir Hosseini",
+  "institution_key": "warwick",
+  "role": "Research Fellow"
+ },
+ {
+  "name": "Anh Luong",
+  "institution_key": "warwick",
+  "role": "Assistant Professor of Business Analytics"
+ },
+ {
+  "name": "Bazil Sansom",
+  "institution_key": "warwick",
+  "role": "Research Fellow"
+ },
+ {
+  "name": "Bo Chen",
+  "institution_key": "warwick",
+  "role": "Professor of Operational Research and Management Science"
+ },
+ {
+  "name": "Bo Kelestyn",
+  "institution_key": "warwick",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Dymtro Chumachenko",
+  "institution_key": "warwick",
+  "role": "Visiting Academic"
+ },
+ {
+  "name": "Eleanor Reynolds",
+  "institution_key": "warwick",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Ephie Wang",
+  "institution_key": "warwick",
+  "role": "Teaching Fellow"
+ },
+ {
+  "name": "Estee Lu",
+  "institution_key": "warwick",
+  "role": "Research Fellow"
+ },
+ {
+  "name": "Frances O'Brien",
+  "institution_key": "warwick",
+  "role": "Reader (Teaching)"
+ },
+ {
+  "name": "Gongtai Wang",
+  "institution_key": "warwick",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Hila Lifshitz-Assaf",
+  "institution_key": "warwick",
+  "role": "Professor"
+ },
+ {
+  "name": "Isabel Fischer",
+  "institution_key": "warwick",
+  "role": "Professor"
+ },
+ {
+  "name": "Jochem Hummel",
+  "institution_key": "warwick",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Joe Nandhakumar",
+  "institution_key": "warwick",
+  "role": "Professor of Information Systems"
+ },
+ {
+  "name": "Juergen Branke",
+  "institution_key": "warwick",
+  "role": "Professor of Operational Research & Systems"
+ },
+ {
+  "name": "Kalina Staykova",
+  "institution_key": "warwick",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Katy Hoad",
+  "institution_key": "warwick",
+  "role": "Associate Professor of Operational Research"
+ },
+ {
+  "name": "Marjolaine Rostain",
+  "institution_key": "warwick",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Mel Hua",
+  "institution_key": "warwick",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Melody Zou",
+  "institution_key": "warwick",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Michael Mortenson",
+  "institution_key": "warwick",
+  "role": "Reader"
+ },
+ {
+  "name": "Mo Moeini",
+  "institution_key": "warwick",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Moris Strub",
+  "institution_key": "warwick",
+  "role": "Associate Professor of Information Systems"
+ },
+ {
+  "name": "Natalia Levina",
+  "institution_key": "warwick",
+  "role": "Professor"
+ },
+ {
+  "name": "Neha Gupta",
+  "institution_key": "warwick",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Nursen Aydin",
+  "institution_key": "warwick",
+  "role": "Associate Professor of Operational Research"
+ },
+ {
+  "name": "Ram Gopal",
+  "institution_key": "warwick",
+  "role": "Professor of Information Systems Management"
+ },
+ {
+  "name": "Salimeh Pour Mohammad",
+  "institution_key": "warwick",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Seyoung Seol",
+  "institution_key": "warwick",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Siamak Naderi",
+  "institution_key": "warwick",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Soo Young Choi",
+  "institution_key": "warwick",
+  "role": "Research Fellow"
+ },
+ {
+  "name": "Steve Alpern",
+  "institution_key": "warwick",
+  "role": "Professor of Operational Research"
+ },
+ {
+  "name": "Susanne Beck",
+  "institution_key": "warwick",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Vinh Doan",
+  "institution_key": "warwick",
+  "role": "Reader"
+ },
+ {
+  "name": "Wenjuan Zhang",
+  "institution_key": "warwick",
+  "role": "Associate Professor of Operational Research"
+ },
+ {
+  "name": "Yi Ding",
+  "institution_key": "warwick",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Yidan Xiang",
+  "institution_key": "warwick",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Zhewei Zhang",
+  "institution_key": "warwick",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Pei-yu Chen",
+  "institution_key": "asu",
+  "role": "Chair of the Department of Information Systems, Red Avenue Foundation Professor, and Professor"
+ },
+ {
+  "name": "Hong Guo",
+  "institution_key": "asu",
+  "role": "Professor"
+ },
+ {
+  "name": "Olivia Liu Sheng",
+  "institution_key": "asu",
+  "role": "W. P. Carey Distinguished Chair and Professor"
+ },
+ {
+  "name": "Asim Roy",
+  "institution_key": "asu",
+  "role": "Professor"
+ },
+ {
+  "name": "Raghu Santanam",
+  "institution_key": "asu",
+  "role": "McCord Chair in Business and Professor"
+ },
+ {
+  "name": "Benjamin Shao",
+  "institution_key": "asu",
+  "role": "Professor"
+ },
+ {
+  "name": "Zhongju Zhang",
+  "institution_key": "asu",
+  "role": "Dean's Council Distinguished Professor and Professor"
+ },
+ {
+  "name": "Sang Pil Han",
+  "institution_key": "asu",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Che-Wei Liu",
+  "institution_key": "asu",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Michael Shi",
+  "institution_key": "asu",
+  "role": "Associate Professor"
+ },
+ {
+  "name": "Reihane Boghrati",
+  "institution_key": "asu",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Jisu Cao",
+  "institution_key": "asu",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Meilin Gu",
+  "institution_key": "asu",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Xiyang Hu",
+  "institution_key": "asu",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Julian Lehmann",
+  "institution_key": "asu",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Tan Lekwijit",
+  "institution_key": "asu",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Xiao Liu",
+  "institution_key": "asu",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Tian Lu",
+  "institution_key": "asu",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Pascal Nitiema",
+  "institution_key": "asu",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Marios Papachristou",
+  "institution_key": "asu",
+  "role": "Assistant Professor"
+ },
+ {
+  "name": "Jonathan Davis",
+  "institution_key": "asu",
+  "role": "Instructional Professional"
+ },
+ {
+  "name": "Christos Makridis",
+  "institution_key": "asu",
+  "role": "Research Associate Professor"
+ },
+ {
+  "name": "David Dunton",
+  "institution_key": "asu",
+  "role": "Faculty Associate"
+ },
+ {
+  "name": "Collin Sellman",
+  "institution_key": "asu",
+  "role": "Faculty Associate"
+ },
+ {
+  "name": "Sunela Thomas",
+  "institution_key": "asu",
+  "role": "Faculty Associate"
+ },
+ {
+  "name": "Kseniia Biriukova",
+  "institution_key": "asu",
+  "role": "Graduate Research Associate"
+ },
+ {
+  "name": "Shasha Cao",
+  "institution_key": "asu",
+  "role": "Graduate Research Associate"
+ },
+ {
+  "name": "Jie Chen",
+  "institution_key": "asu",
+  "role": "Graduate Research Associate"
+ },
+ {
+  "name": "Caroline Crane",
+  "institution_key": "asu",
+  "role": "Graduate Research Associate"
+ },
+ {
+  "name": "Shuang Gao",
+  "institution_key": "asu",
+  "role": "Graduate Research Associate"
+ },
+ {
+  "name": "Selena Han",
+  "institution_key": "asu",
+  "role": "Graduate Research Associate"
+ },
+ {
+  "name": "Seung Jong Lee",
+  "institution_key": "asu",
+  "role": "Graduate Research Associate"
+ },
+ {
+  "name": "Weibo Li",
+  "institution_key": "asu",
+  "role": "Graduate Research Associate"
+ },
+ {
+  "name": "Pin-Jun Liu",
+  "institution_key": "asu",
+  "role": "Graduate Research Associate"
+ },
+ {
+  "name": "Jie Mei",
+  "institution_key": "asu",
+  "role": "Graduate Research Associate"
+ },
+ {
+  "name": "Kyuyeon Rhee",
+  "institution_key": "asu",
+  "role": "Graduate Research Associate"
+ },
+ {
+  "name": "Xiaokun Wu",
+  "institution_key": "asu",
+  "role": "Graduate Research Associate"
+ },
+ {
+  "name": "Lindsey Hepler",
+  "institution_key": "asu",
+  "role": "Business Operations Specialist"
+ },
+ {
+  "name": "Terra Lamotte-Harvey",
+  "institution_key": "asu",
+  "role": "Student Services Coordinator, Sr."
+ },
+ {
+  "name": "Angelina Saric",
+  "institution_key": "asu",
+  "role": "Business Operations Manager Senior"
+ },
+ {
+  "name": "Juliana Sutanto",
+  "institution_key": "monash",
+  "role": "Associate Dean (International)"
+ },
+ {
+  "name": "Frada Burstein",
+  "institution_key": "monash",
+  "role": "Adjunct Professor"
+ },
+ {
+  "name": "Angela Lu",
+  "institution_key": "monash",
+  "role": "Senior Lecturer"
+ },
+ {
+  "name": "Caddie Gao",
+  "institution_key": "monash",
+  "role": "Deputy Head of Department (HCC)"
+ },
+ {
+  "name": "Jun Zhang",
+  "institution_key": "monash",
+  "role": "Senior Lecturer"
+ },
+ {
+  "name": "Ruonan Sun",
+  "institution_key": "monash",
+  "role": "Senior Lecturer"
+ },
+ {
+  "name": "Zhiming Deng",
+  "institution_key": "monash",
+  "role": "Assistant Lecturer (CDP)"
+ },
+ {
+  "name": "Henry Linger",
+  "institution_key": "monash",
+  "role": "Associate Professor (Adjunct)",
+  "note": "listed on the department page without a research-portal link"
+ }
+]

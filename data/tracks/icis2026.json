@@ -1,0 +1,501 @@
+{
+ "conference": "ICIS 2026",
+ "source_url": "https://icis2026.aisconferences.org/submissions/track-descriptions/",
+ "tracks": [
+  {
+   "id": "conference-theme-digital-collaboration-and-coexistence",
+   "name": "Conference theme: Digital collaboration and coexistence",
+   "order": 0,
+   "description": "The ICIS 2026 Theme Track on “Digital Collaboration and Coexistence” solicits research that advances our understanding of how digitally mediated collaboration and the capacity to coexist amid pervasive digital technologies reshape work, organizing, markets, and everyday life. Rather than treating digital technologies merely as tools or infrastructures, the track emphasizes collaboration and coexistence as ongoing socio-technical accomplishments shaped by evolving roles, dependencies, and power relations. In doing so, it invites research that examines not only how digital collaboration is enabled, but also how forms of coexistence with increasingly autonomous, agentic, and connective technologies are negotiated, stabilized, and contested over time. Building on the ICIS 2025 emphasis on digital integration, this track foregrounds the relational and systemic dimensions of digital life: how people coordinate and create together across time, distance, and boundaries; how organizations and ecosystems collaborate through platforms and shared infrastructures; how organization, people and societies adapt their coexistence due to technological innovations, and how individuals, groups, and societies learn to live with digital technologies that increasingly act, decide, and communicate in ways that were previously human-only. “Coexistence” highlights both promise and tension: productivity and creativity alongside overload, fragmentation, polarization, and inequity; openness and connection alongside surveillance, manipulation, and security threats; rapid innovation alongside governance gaps amid societal norm implosion. As such, coexistence directs attention to how these tensions are negotiated, stabilized, or exacerbated through socio-technical arrangements over time. Papers whose primary contribution lies in a domain-specific context more squarely aligned with another ICIS track, rather than on collaboration or coexistence mechanisms and their implications, should be submitted to the more relevant track. While AI-related papers are welcome, submissions should meaningfully engage with digital collaboration and/or coexistence; papers that only marginally touch on these themes should be submitted  to other tracks.",
+   "topics": [
+    "Measuring digital collaboration and coexistence, including new constructs and multi-level operationalizations",
+    "Collaboration across time, distance, and boundaries (hybrid work, distributed teams, interorganizational networks, global collaboration)",
+    "Coordination, communication, and knowledge sharing in digitally mediated settings (including breakdowns, repair, and resilience)",
+    "Human-AI collaboration: AI as teammate, coach, mediator, or collaborator; delegation, oversight, and escalation in AI-assisted work",
+    "Agentic workflows and autonomy: coordination among AI agents and humans; governance of autonomous/semi-autonomous agents; accountability for agent actions",
+    "AI-mediated interaction (e.g., translation, summarization, synthesis, recommendation) and its effects on sensemaking, creativity, conflict, and trust",
+    "Digital identity, presence, and authenticity in collaboration (verification, impersonation, deepfakes, provenance, and trust signals)",
+    "Trust, transparency, and contestability in collaborative systems (explainability practices, recourse, auditability, and human control)",
+    "Algorithmic management and digitally mediated labor (gig work, monitoring, incentives, fairness, and worker agency)",
+    "Inclusion, accessibility, and equity in collaborative technologies (barriers, design for participation, cultural and linguistic diversity)",
+    "Digital well-being and attention in collaboration (overload, interruptions, boundary management, work-life balance)",
+    "Online communities and collective action (community building, moderation, norms, civic participation, and social movements)",
+    "Privacy, surveillance, and security tensions in collaborative environments (secure collaboration, privacy-preserving analytics, resilient coordination)",
+    "Design science and intervention research on tools, processes, and governance arrangements that enable healthier collaboration/coexistence",
+    "Socio-technical change over time: coevolution of technologies, practices, institutions, and norms; unintended consequences and second-order effects",
+    "Coexistence with agentic and adaptive systems (e.g., learning systems, evolving models, long-term human-AI entanglements)",
+    "Temporalities of collaboration and coexistence (e.g., speed asymmetries, persistence of digital traces, lagged consequences)"
+   ]
+  },
+  {
+   "id": "general-topics",
+   "name": "General topics",
+   "order": 1,
+   "description": "The General IS Topics track is intended for high-quality papers on topics that do not have a specific fit with other tracks or have a very comprehensive, cross-thematic scope. The track aims to attract unique and novel papers and give an additional degree of freedom to the conference’s specific tracks, from an epistemological, ontological as well as methodological standpoint. Papers on cutting edge technologies (e.g., quantum) that have varied implications that go beyond the confines of other tracks could also be relevant for this track. Please check the fit of your paper with other tracks’ topics before submitting your paper to this track. We welcome submissions on AI and related topics to the extent that those are also not more closely related to other track domains. The General IS Topics track also provides the chairs of other tracks the opportunity to submit their manuscripts.",
+   "topics": [
+    "Information Systems research that does not fit with any other track."
+   ]
+  },
+  {
+   "id": "future-of-work",
+   "name": "Future of Work",
+   "order": 2,
+   "description": "Technological developments, most notably advances in artificial intelligence (AI), continue to reshape work design, performance, and management at the individual, team, organizational, and societal levels. As organizations increasingly digitalize work and embed AI into everyday processes, the established structures and norms of office work routines are transforming. The nature of work is becoming increasingly contingent, mobile, and flexible, often mediated by digital platforms and intelligent systems. New technologies (including but not limited to AI) have enabled changes in the temporality and spatiality of work with many consequences deserving study. Exemplars of contemporary work structures include remote and nomadic work, the four-day workweek, globally distributed project work, crowdsourcing, and on-demand freelance work increasingly coordinated, supported, or evaluated by AI-enabled platforms. The automation and augmentation of work with AI technologies, including generative AI, agentic systems, and advanced analytics, alongside virtual reality and blockchain, are transforming work as humans are replaced by, or work alongside, ever more capable algorithms, digital agents, and robots. In many settings, AI systems generate content, support or substitute for expert judgment, allocate tasks, and monitor performance. Some workers are concerned that whole classes of jobs, occupations and professions may become obsolete, while demand for other occupations grows at an increasing rate. Other workers and organizations, on the other hand, are excited about the opportunities these AI technologies create for improving efficiency, enabling new forms of creativity and knowledge work, and strengthening innovative and competitive capabilities. Workers will need to adapt their skill portfolios to remain employable and to manage their careers in an increasingly AI-mediated labor market, including learning how to collaborate with, supervise, and rely on generative and agentic systems. Organizations will need to manage their human capital portfolios to capitalize on increasingly sophisticated automation and autonomization, while maintaining the skills required to design, govern, and coordinate work performed by humans and AI systems. At the same time, the meaning of work and employment is shifting as digital natives become a dominant force in modern organizations and as AI reshapes expectations around expertise, autonomy, and responsibility. Beyond organizations, the diffusion of AI into work raises broader societal and public policy questions related to labor market regulation, education and reskilling, data rights, transparency, accountability, and fairness in algorithmic decision-making. These issues highlight the importance of research that connects organizational perspectives with institutional and policy approaches to the future of work. We welcome submissions that take a broad perspective on technology and the future of work. We seek submissions using a variety of theoretical and methodological approaches that examine these phenomena across levels of analysis, including tasks, individuals, organizations, labor markets, and society.",
+   "topics": [
+    "Work in the context of the Fourth Industrial Revolution",
+    "Automation and augmentation of work",
+    "Generative AI and agentic systems in work design and execution",
+    "Algorithmic management, people analytics, and AI-based decision systems",
+    "Emerging and shifting skill portfolios in AI-intensive workplaces",
+    "Reskilling and professional development for AI-mediated work",
+    "Emerging careers and career patterns shaped by AI",
+    "Lived experience of working with AI in digital and remote workplaces",
+    "Managing professional obsolescence in the age of AI",
+    "Characteristics of the IT and AI workforce",
+    "Meaning of work in AI-mediated digital workplaces",
+    "Mobile and nomadic work supported by AI technologies",
+    "New AI-enabled work arrangements and organizing forms",
+    "Leadership and teamwork in AI-augmented environments",
+    "Self-organized work in decentralized and algorithmically governed organizations",
+    "Virtual, hybrid and remote work, AI agents, and the metaverse",
+    "Work culture in data-driven and AI-intensive milieus"
+   ]
+  },
+  {
+   "id": "sustainability-and-environmental-issues",
+   "name": "Sustainability and environmental issues",
+   "order": 3,
+   "description": "Information systems (IS) and their underlying digital technologies play a dual role in relation to environmental sustainability. On the one hand, sustainability-related challenges and envi-ronmental concerns have become increasingly prominent in discussions of technological development and adoption, fueled by recent developments around artificial intelligence (AI), blockchain, and Internet of Things (IoT) technologies. For instance, the explosion of AI has resulted in the construction of global data centers where solar, wind, and hydroelectric pow-er need to be harnessed to create shared computation pools. The production, operation, and widespread use of digital innovations contribute to resource depletion, high energy consump-tion, and electronic waste, raising critical questions about long-term ecological impacts. Moreover, the rapid pace of technological advancement can exacerbate issues such as carbon emissions and the excessive consumption of natural resources. On the other hand, IS can help individual actors, organizations, governments, and society to address environmental concerns. By increasing information-processing capacity, enhancing connectivity, and providing ever better predictive capabilities, digital technologies offer the informational, predictive, and action-oriented capabilities needed to maintain environmental services by reducing resource consumption, avoiding waste and emissions, and implementing the circular economy. Organizations use IS to track their environmental impacts and design and implement more sustainable processes and supply chains. For example, IoT technologies provide opportunities for implementing increasingly efficient “smart” systems, such as smart buildings, smart cities, smart manufacturing, smart farming, and smart mobility, to name just a few. Climate researchers use digital technologies such as large-scale simulations and AI to improve climate predictions. Material scientists use AI-based systems to develop more environmentally friendly materials and products. Governments can use IS to implement, monitor, and assess regulations for environmental protection. While this dual role of information systems as both a contributor and a potential solution to environmental concerns creates tensions and tradeoffs, recent discourse has suggested that the two transformations of our time—the digital transformation and the sustainability trans-formation—are in fact two sides of the same coin. The “twin transformation” focuses on the synergies that can be leveraged between the two, such as when an organization uses digital transformation to improve sustainability while, at the same time, focuses on goals and in-sights from sustainability transformations to drive digital innovation. IS are essential for addressing global sustainability challenges, fostering a sustainable future, and protecting our fragile natural environment. The information systems field is uniquely positioned to address the environmental challenges arising from the pervasive use of digital technologies in the digital age and to build the conceptual and practical foundations for leveraging these same technologies to advance innovation and sustainability. Our field not only studies socio-technical systems, but indeed eco-socio-technical systems, reflecting the diver-sity of complementary goals articulated in the 17 Sustainable Development Goals (SDGs) introduced by the United Nations to define the global Agenda for 2030—ranging from pri-marily social goals (e.g., no poverty, good health and well-being) to economic goals (e.g., industry, innovation, and infrastructure) and environmental goals (e.g., climate action, life below water, and life on land). While the focus of this track is on environmental issues, the SDGs emphasize the interconnectedness of environmental, social, and economic dimensions of sustainable development. This track invites papers that develop theoretical understanding and practical insights into addressing sustainability and environmental issues with digital technologies. We invite empirical and conceptual research papers exploring the design, development, use, and impact of digital technologies, from individual, community, organization, government, or society perspectives. We welcome indigenous perspectives and diverse methodological approaches.",
+   "topics": [
+    "Roles of information systems and digital technologies in promoting specific sustainable development goals within organizations, communities, and nations.",
+    "Roles of digital technologies in transition pathways to environmental sustainability.",
+    "Creative socio-technical innovations around sustainability and environmental impacts.",
+    "Implementing, adopting, and governing impactful digital sustainability initiatives in organizational, community, and national contexts.",
+    "Implementing, adopting, and governing twin transformation initiatives in organizations.",
+    "Indigenous perspectives on digital technologies, environmental stewardship, and climate justice.",
+    "Impact of digital transformation on sustainability and environmental issues.",
+    "Environmental consequences of digital technology development and implementation.",
+    "Enablers and barriers to achieving sustainable development goals from information sys-tems and digital technologies.",
+    "Innovative applications of advanced or emerging technologies (e.g., Blockchain, AI, IoT) to enhance sustainability and address environmental issues.",
+    "Roles of information systems and digital technologies in sustainable supply chain management initiatives and decarbonization.",
+    "Adoption, implementation and impacts of IS-enabled circular economy initiatives.",
+    "The role of environmental sustainability in regulating emerging technologies.",
+    "Organizational and managerial governance to address the tradeoff regarding the role of IS in contributing to and serving as a solution to environmental issues."
+   ]
+  },
+  {
+   "id": "responsibility-and-ethics",
+   "name": "Responsibility and Ethics",
+   "order": 4,
+   "description": "The Responsibility and Ethics Track at ICIS 2026 extends the tradition of ethics, responsibility, and social impact research within the ICIS community. The track provides a dedicated forum for examining information systems as ethical, moral, and social phenomenon with significant implications for organisations, institutions, and society more broadly. These phenomena are transformational yet, as part of a digital undertow, often go unnoticed. For example, algorithmic decision-making, data-intensive agentic work, and ‘intelligent’ systems challenge traditional notions of responsibility and produce new ethical dilemmas which are only now becoming visible (e.g. algorithmic pollution, ‘AI slop’, new forms of identity theft). We invite research that addresses issues of responsibility and ethical dilemmas (e.g. accountability, transparency, fairness, power) across the lifecycle of digital systems. This includes design/development of systems, evaluation and monitoring, and governance, and how those systems may unfold in the future as concepts and technologies evolve. We particularly welcome work that conceptualizes responsibility in evolving human-machine relations within organisational practices, governance structures, professional norms, regulatory environments and in everyday social life. This includes, but is not limited to, studies addressing whether technologies themselves can be ethical, how bias and discrimination are produced in algorithmic systems, auditing and transparency, privacy and surveillance, what innovation is responsible to or for, new sustainability challenges for energy-intensive systems, and how ethics are produced through new digital interactions. The track encourages multi-level perspectives spanning individuals, teams, organisations, ecosystems, and society, and welcomes diverse theoretical lenses, including critical, interpretive, design-oriented, and normative approaches. Empirical (including econometric and experimental), conceptual, and methodological (including design science research) contributions are equally valued. We also welcome research that engages with grand challenges and explores how information systems and ‘AI’ may contribute to or obstruct social inclusion, equity, wellbeing, and public trust. By acknowledging the realities of emerging agentic and distributed systems, we can reengage with the traditional IS ethics and responsibility discourse. This track aims to advance rigorous and relevant scholarship that informs what responsibility and ethics are becoming as organizations, institutions and society grapple with digitalisation, new agentic “intelligences” and commit to more ethical, inclusive, and sustainable futures",
+   "topics": [
+    "Accountability and responsibility in digital and algorithmic systems",
+    "Ethical governance, regulation, and ethics-by-design across system lifecycles",
+    "Bias, discrimination, and social exclusion in automated decision-making",
+    "Data ethics, privacy, surveillance, and identity related harms",
+    "Transparency, explainability, and auditing of data-driven systems AI in human-machine collaboration and changing work practices",
+    "Accountability and control in agentic and autonomous AI systems",
+    "Bias, fairness, and contestability in AI-enabled decision processes",
+    "Public trust and legitimacy of AI in societal institutions",
+    "Power, politics, and institutional dynamics of digital infrastructures Sustainability and environmental impacts of data-intensive technologies Professional norms, expertise, and identity in digitally mediated work",
+    "Theoretical, methodological, and design-oriented advances in IS ethics research"
+   ]
+  },
+  {
+   "id": "societal-impacts",
+   "name": "Societal impacts",
+   "order": 5,
+   "description": "Digitalization has moved beyond enabling organizational efficiency and market connectivity to becoming a defining infrastructure of everyday life and collective futures. While digital technologies continue to hold promise for inclusion and well-being, their societal consequences are neither uniform nor inevitable, often differing across social, institutional, and regional contexts. In particular, consequences emerge through complex interactions among technologies, institutions, cultures, political power and everyday practices. Digital technologies may create new forms of vulnerability and inequality, but at the same time they facilitate opportunities for participation and collective action. The speed and scale of technological change continue to outpace our theoretical and empirical understanding of its consequences. It is therefore imperative for IS scholarship to engage not only with impacts, but also with responsibilities and the broader societal implications. The IS community is uniquely positioned to examine how digital technologies are socially embedded and politically consequential. This track invites research that moves beyond surface-level accounts of “benefits and challenges” toward deeper engagement with the structural, institutional, cultural, and ethical dimensions of digital technologies. We encourage submissions that highlight context and voices from diverse regions of the world. Theoretical, empirical, and design-oriented scholarship on the societal implications of IS is welcome. Submissions may employ qualitative, quantitative, mixed, or design science approaches. Interdisciplinary perspectives and critical, interpretive, and practice-based theorizing are especially encouraged.",
+   "topics": [
+    "Digitally mediated societal change",
+    "Digital development and socio-economic transformation (ICT4D)",
+    "Algorithmic systems and socio-economic mobility",
+    "Recommendation systems and their societal implications",
+    "Platform governance, information harms and public discourse",
+    "Societal consequences of labor automation and AI-driven work",
+    "Ethical challenges in generative AI: fairness and structural justice",
+    "Societal implications of autonomous AI agents"
+   ]
+  },
+  {
+   "id": "data-management-and-analytics",
+   "name": "Data management and analytics",
+   "order": 6,
+   "description": "Data have become a foundational phenomenon in contemporary organizations, shaping decision-making, innovation, and coordination across increasingly complex digital ecosystems. As data grow in scale, diversity, and are repurposed for analytics and AI, new challenges emerge around how they are managed, analyzed, and governed. This track invites research that investigates these challenges and advances our understanding of data management and analytics in the information systems discipline. We seek submissions that examine data across their full lifecycle, from creation, capture, curation, and storage to processing, analysis, and use. Given the distinct characteristics of digital data, we especially welcome studies that rethink traditional assumptions about data quality, governance, and value and develop novel approaches to cope with the increasing demand for data and analytics in AI. Analytics continues to transform how organizations operate, innovate, and learn. We invite research on novel analytics approaches in organizations, including new modeling techniques, analytical architectures, evaluation methods, and empirical strategies that address real-world phenomena or generate conceptual advances. We encourage submissions that use analytics not only to solve applied problems but also to support data-driven theory building. Because AI systems are increasingly inseparable from the data that fuel them, this track explicitly invites work examining the mutual shaping of data and AI. We welcome studies on how AI transforms data requirements, data work, data governance, and data quality and how data practices, in turn, shape the performance, organizational uses, and consequences of AI. Overall, this track provides a scholarly space to deepen our understanding of data as a central phenomenon. Conceptual, theoretical, computational, design-oriented, and empirical papers are all appropriate for this track.",
+   "topics": [
+    "Data work within organizational and societal contexts",
+    "Data value within and across organizations",
+    "Data for AI and the interplay with AI systems",
+    "Societal aspects around data",
+    "Data and analytics architectures in organizations and ecosystems",
+    "Management of data assets and data pipelines for analytics and AI at scale (e.g., semantic layer)",
+    "Methods and methodologies for data and analytics development and deployment",
+    "Unstructured data analysis (e.g., text, image, audio, video) to address business and/or societal challenges",
+    "Roles and organizational approaches to data and analytics",
+    "Predictive, prescriptive, and causal analytics for organizational decision-making and innovation"
+   ]
+  },
+  {
+   "id": "cybersecurity-and-privacy",
+   "name": "Cybersecurity and privacy",
+   "order": 7,
+   "description": "Cybersecurity and privacy are system-level constraints that shape how digital technologies are designed, governed, adopted, and used. Most cybersecurity and privacy failures stem from complex sociotechnical interactions and continuously expanding attack surfaces. Human behavior, routines, incentives, and awareness intersect with distributed digital ecosystems, platform-based architectures, and supply-chain dependencies in ways that cannot be adequately explained by simple attacker–defender models or isolated compliance failures. These conditions raise fundamental questions about cyber-risk sensemaking, governance, and the design of effective systems of control in dynamic digital environments. The fast-paced and largely unregulated adoption of AI further intensifies these challenges. As individuals and organizations embed AI, analytics, and autonomous systems into core use and operations, new vulnerabilities, dependencies, and privacy risks emerge alongside new opportunities for protection, assurance, and control. Defenders increasingly rely on AI-driven threat detection, anomaly monitoring, and automated response, while simultaneously navigating regulatory change, organizational policies, and human behavior. AI-enabled systems also introduce lifecycle risks, including data leakage, model manipulation, and novel vulnerability classes in LLM-based applications, such as prompt injection and insecure output handling. Privacy remains a central concern as organizations balance data sharing, innovation, and value creation with protection, consent, and accountability. Evidence on how privacy concerns shape behavior, such as data donation, secondary data use, or compliance, remains mixed. These tensions are especially pronounced in high-stakes domains like healthcare, where AI applications amplify ethical, legal, and operational challenges.",
+   "topics": [
+    "Cybersecurity awareness, behavior, and engagement, including training, gamification, and cyber-awareness interventions",
+    "Employee accountability, insider threats, and insecure behaviors, including computer abuse and policy violations",
+    "Adoption, use, and continuance of cybersecurity technologies, controls, and policies",
+    "Cybersecurity risk analysis, sensemaking, and modeling, including security and privacy metrics",
+    "Systems-theoretical, sociotechnical, and complexity-informed approaches to cybersecurity and privacy",
+    "Security-by-Design and privacy-by-design approaches, including secure system and process design",
+    "AI-driven cybersecurity and privacy violations, including agentic AI–based threats",
+    "AI-enabled cybersecurity protection, including AI-driven detection, response, and vulnerability management",
+    "Security and privacy of GenAI and LLM-based applications, including prompt injection, insecure output handling, and data leakage",
+    "AI governance at the cybersecurity–privacy interface, including assurance, audits, accountability, and risk management",
+    "Privacy concerns and user behavior, including privacy calculus, data donation, secondary data use, consent models, and data stewardship, particularly in high-stakes domains such as healthcare and clinical AI"
+   ]
+  },
+  {
+   "id": "blockchain-dlt-and-fintech",
+   "name": "Blockchain, DLT, and Fintech",
+   "order": 8,
+   "description": "This track explores the transformative interface of Distributed Ledger Technologies (DLT), blockchain, and modern FinTech systems such as in Decentralized Finance (DeFi). As Artificial Intelligence (AI) has become deeply embedded in financial infrastructures, digital markets, and decentralized ecosystems, this track also emphasizes the critical role of AI, including machine learning, LLMs, agentic AI, and autonomous systems, in shaping the emergence, operation, and governance of DLT- and FinTech-based innovations. We invite research that connects the foundational infrastructure of DLT/blockchain (consensus, tokenization, decentralization, interoperability) with the evolving economic and business models, regulatory/legal frameworks, and ecosystem impacts of FinTech. In the era of AI-enabled finance, this track welcomes work that addresses how AI augments, disrupts or converges with DLT/FinTech, DeFi and the broader societal, organizational and economic implications of this convergence.",
+   "topics": [
+    "Architectures, protocols and governance of DLT/blockchain systems (layer-2 scaling, interoperability, hybrid public-private ledgers)",
+    "Tokenization of financial assets, digital securities, stablecoins, CBDCs, and the implications for market infrastructure",
+    "Tokenization of other types of assets (e.g. physical items, art etc.) and their markets",
+    "Decentralized Finance (DeFi), decentralized autonomous organizations (DAOs), Web3 business models, and how AI/ML shapes or emerges in these contexts",
+    "FinTech innovations including digital payments, lending, insurtech, embedded finance, open banking, platform business models, with a focus on AI-driven personalization, prediction, and automation",
+    "The convergence of AI and DLT/FinTech: e.g., AI-driven smart contracts, autonomous agents interacting with tokenized ecosystems, trust/risk analytics for crypto-assets, AI for governance in decentralized systems",
+    "Regulation, policy, compliance and supervision in an AI+D LT/FinTech world: AML/KYC, digital identity and verifiable credentials, algorithmic decision-making, systemic risk, ethical and societal concerns",
+    "Organizational, economic and ecosystem change: adoption dynamics, value creation/value capture in token economies, cross-industry platform shifts, emergent roles of incumbents and startups",
+    "Sustainability, inclusivity and societal impact: green/blockchain energy trade-offs, financial inclusion via FinTech and DLT, AI-enabled financial services for underserved populations",
+    "Methodological diversity: design science, empirical, computational/data-driven studies (e.g., machine learning, deep learning), behavioral and organizational lenses are all encouraged",
+    "We invite submissions that look forward: how will the next wave of AI-enabled DLT & FinTech systems reshape not only finance, but larger socio-technical infrastructures?"
+   ]
+  },
+  {
+   "id": "computational-design-and-evaluation",
+   "name": "Computational Design and Evaluation",
+   "order": 9,
+   "description": "This track provides a platform to discuss the more technical side of IS, particularly relating to the design, implementation, and evaluation of computational artifacts (i.e., IT or IS artifacts, including but not limited to AI-enabled systems). This track wants to attract computational design science studies with a strong sociotechnical context, i.e., strong business and societal implications. We are keen to attract insightful and impactful design science studies that are novel and pivot from existing research, theory, and practice. We welcome research that unpacks the complexities of artifact design, considering the mutual interplay between technology, people, organizations, and broader societal structures to address real-world problems. We encourage methodological insights that can help strengthen computational design and evaluation. All submissions must clearly explain the computational artifacts and demonstrate their relevance and impact on real-world problems and stakeholders with proper evaluation techniques and criteria. By fostering collaboration and knowledge exchange, this track will empower scholars, industry experts, and practitioners to push forward the purposeful, responsible, and human-centered computational artifacts. Papers that focus solely on eliciting design requirements or reporting the process of organizational digital transformation without implementing and evaluating a computational artifact are not a good fit for this track. Likewise, papers that focus solely on algorithmic characteristics alone without a clear sociotechnical context and motivations may not be sufficient for this track.",
+   "topics": [
+    "Emerging methods for computational design science research",
+    "Advances in machine learning methods (including deep learning) for sociotechnical design",
+    "Generative AI and foundation models (e.g., large language models)",
+    "Computational design science for explainable and responsible AI",
+    "Computational design science of emerging digital technologies, such as immersive systems, IoT, robotics, etc.",
+    "Algorithmic decision making",
+    "Design supporting human-AI collaboration",
+    "Human-centered information system design"
+   ]
+  },
+  {
+   "id": "design-development-and-project-management",
+   "name": "Design, Development, and Project Management",
+   "order": 10,
+   "description": "The use of and reliance on Information Systems (IS) in organizations and society is more deeply interwoven today than ever, affecting nearly every facet of human existence. More individuals, even outside formal IS training and roles, can and are contributing to the design, development, and management of IS today, thanks in part to the use of AI’s ability to transform natural human language into usable IS components, e.g., “vibe coding”. AI is seen as a contributor to the expansion of IS as it is transforming how IS design, development, and project management (ISD-PM) unfolds. These expansions of IS have amplified attention on ISD-PM. While this track encourages traditional IS design, development, and project management research, the track also encourages research that advances understanding of socio-technical dimensions of ISD-PM and AI’s impact on IS capabilities and processes in ISD-PM. It hopes to foster research on AI-driven innovations for ISD-PM while maintaining continuity with established topics such as requirements management, IS methodologies (Agile/DevOps/MLOps), and IS tools and practices (e.g., conceptual modeling, low‑/no‑code, and socio‑technical design). We welcome empirical (quantitative and qualitative), analytical, conceptual, design‑oriented, and simulation‑based studies across organizational, group, and individual levels. Submissions should articulate clear theoretical or practical contributions and situate findings within the IS discipline.",
+   "topics": [
+    "Novel theories, perspectives, and foundations for ISD-PM methods, tools, and techniques",
+    "Advances in ISD modeling techniques",
+    "Prompt‑based / natural‑language programming (incl. low‑/no‑code)",
+    "Methodologies encouraging continuous integration/delivery/monitoring (MLOps, Agile, DevOps)",
+    "Human–AI collaboration, roles, skills, and team dynamics in ISD-PM",
+    "Architecture & platform engineering (cloud‑native, micro-services) for AI‑enabled IS",
+    "Socio‑technical design and organizational change through ISD-PM",
+    "Metrics and evaluation of ISD-PM outcomes (quality, agility, value creation)",
+    "Implications of AI‑enabled infrastructure and operations on ISD-PM",
+    "Education and training for AI‑infused ISD-PM practices",
+    "Sourcing and collaboration models (internal, multi‑sourcing, open source)"
+   ]
+  },
+  {
+   "id": "implementation-and-organizing",
+   "name": "Implementation and organizing",
+   "order": 11,
+   "description": "Digital technologies are fundamentally transforming how organizations manage operations, create value, and compete in an increasingly complex global, social, and economic landscape. Rapidly emerging and evolving technologies, such as artificial intelligence (AI), robotic process automation, the Internet of Things, embodied devices, and immersive technologies, are exerting pressure on leaders to effectively implement and (re)organize increasingly complex socio-technical systems. Harnessing the full potential of these digital technologies necessitates more than mere tool deployment; it requires a comprehensive reconfiguration of socio-technical systems, a reevaluation of organizing principles, and an alignment of technological capabilities with operational practices. As organizations experiment with AI, generative AI, and other data-driven digital technologies, they encounter persistent challenges across a wide range of socio-technical issues. We have entered a moment to elevate and reimagine our collective insights into the implementation, organization, and integration of technologies into our daily routines and practices. This both empowers us to transform digital strategies into lasting, impactful organizational success, as well as challenges us to confront the risks and potential harms posed by such sweeping transformations. This track welcomes submissions that investigate the evolving interplay among technological architectures, organizing processes, and human agency. This includes work that examines how digital infrastructures are configured and adapted in practice, how implementation efforts reshape roles, routines, and power dynamics, and how actors collectively make sense of emerging technologies during periods of organizational change and digital transformation. We also welcome studies that explore unintended consequences, scaling challenges, and the long-term institutionalization of new systems. This track seeks to advance theoretical and empirical insights to deepen our understanding of the implementation and (re)organizing of socio-technical complexities.",
+   "topics": [
+    "Socio-technical dynamics of how organizations reconfigure structures, hierarchy, and business processes and power to align with evolving digital capabilities.",
+    "The implementation and integration of technology including, but not limited to, AI technologies, robotic process automation, and autonomous systems.",
+    "AI-enabled organizational design and management",
+    "(Re)Organizing processes and how digital tools implementation reshape routines, coordination, labor, and structures to span across organizational levels and beyond organizational boundaries.",
+    "Digital infrastructures that are configured, adapted, normalized, scaled, and governed across organizational and ecosystem contexts.",
+    "Digital responsibility issues, including fairness, transparency, accountability, and sustainability during the implementation and (re)organizing of digital technologies.",
+    "Complex socio-technical change, e.g., conceptual or methodological contributions that advance theories of digital transformation, infrastructure evolution, organizing logics, or others.",
+    "Socio-technical strategies for technology implementation in low-infrastructure regions and adaptive digital infrastructure for under-resourced organizations.",
+    "Co-creation of multi-stakeholder governance models and rights-based approaches to emerging technologies.",
+    "How digital technologies reshape temporal rhythms, interdependencies, and ongoing work processes across the organization."
+   ]
+  },
+  {
+   "id": "human-technology-interaction",
+   "name": "Human technology interaction",
+   "order": 12,
+   "description": "This track focuses on how humans interact with emerging technologies (e.g., AI, robots, and chatbots) across organizational, cultural, and social contexts. Papers across the remit of IS research on human computer interaction and robot interaction are encouraged. We are interested in understanding technical, behavioral, and institutional factors that influence technology use, as well as how human technology interaction helps generate value in organizations. We also welcome papers that examine how digital technology shapes human cognition and emotion, and how users engage with technologies and algorithms in their personal or professional lives. We look forward to submissions using diverse methodologies (qualitative, quantitative, design-oriented, phenomenology etc.) and theories on a variety of topics.",
+   "topics": [
+    "Aesthetic and affective computing",
+    "Design and evaluation of end-user computing in work versus non-work environments and in developing versus developed economies",
+    "Embedded IT applications, including robotics/bots, AI systems, intelligent homes, spatial systems",
+    "Feature-level IT adoption and use",
+    "HCI and robotics interface design issues with new devices and applications, such as smartphones, social networking sites, M-commerce, and pervasive computing",
+    "Human information-seeking behavior on digital platforms",
+    "Interactions with immersive technologies",
+    "Interfaces for information visualization, analytics, and human-data interaction",
+    "NeuroIS studies on information systems design and use (i.e., neurocognition, neurophysiology, eye tracking)",
+    "Studies focusing on human technology interaction in the context of online persuasion and deception (e.g., fake news, fake reviews, manipulative e-commerce strategies)",
+    "Psychological, social, and cultural aspects of human-computer and robot interactions",
+    "Usability and design research for human collaboration with automated colleagues",
+    "The use and impacts of robotic process automation (RPA) in organizations",
+    "Platform designs for interactions between users and complementors",
+    "Socio-technical perspectives on human technology interaction (e.g., affordances, sociomateriality, sensemaking)",
+    "Digital well-being, technostress, and emotional and identity-related impacts of technology"
+   ]
+  },
+  {
+   "id": "user-behavior-and-engagement",
+   "name": "User behavior and engagement",
+   "order": 13,
+   "description": "In today’s digital landscape, understanding user behavior and fostering engagement have become paramount for the success of information systems and technologies. The “User Behavior and Engagement” track explores the intricate and constantly evolving relationship between users and technology, examining how digital interfaces shape user actions, preferences, and experiences across various contexts. This track invites cutting-edge research that offers novel insights into the dynamics of user interaction with technology, the factors driving engagement, and the consequential outcomes at individual, organizational, and societal levels. We encourage submissions that investigate the multifaceted nature of user behavior, including cognitive, emotional, and social dimensions, and studies that propose innovative strategies for enhancing healthy user engagement and experience. We also welcome research that critically examines the potential negative side-effects of “user engagement” as the driving goal of technology design (e.g., dependence, over-reliance, skill erosion), and research that proposes novel paradigms in this area (e.g., appropriate reliance and calibrated trust). With the rapid advancement of Artificial Intelligence (AI), particularly Generative AI (GenAI), as well as other emerging technologies, this track recognizes the transformative impact these technologies have on the human experience when engaging with people, content or other entities. We welcome research exploring how AI, GenAI, Virtual Reality (VR), and social robots, among others, are reshaping user interactions, influencing decision-making processes, and creating new engagement paradigms. Studies examining the ethical implications, user trust, and the potential for AI to personalize and enhance user experiences are especially relevant. Relatedly, we welcome further advances in emerging areas of user experience engagement, including gamification, the Metaverse, and the like. We invite contributions employing diverse qualitative, quantitative, design science, or mixed methods methodologies that provide theoretical, empirical, or design-oriented insights into user behavior and engagement in digital environments.",
+   "topics": [
+    "AI-driven personalization and user engagement",
+    "The impact of GenAI on user behavior",
+    "Appropriate reliance on AI",
+    "Determinants of user engagement in digital platforms",
+    "Behavioral incentives and strategies to enhance user participation",
+    "Group and multi-agent dynamics in user behavior",
+    "Gamification and its influence on user behaviors",
+    "Virtual economy and user behavior and engagement in the gamified Metaverse",
+    "Critical studies on the dark side of user engagement and technology use",
+    "Influence of digital engagement on well-being",
+    "The role of AI in content moderation and user behavior regulation",
+    "Design strategies for enhancing user engagement",
+    "Ethical implications of AI and other emerging technologies on user behaviors",
+    "User experiences in the immersive digitally-enabled environments",
+    "Rethinking user interaction design in the era of immersive computing",
+    "User digital identity formation",
+    "Ethical design of AI-enhanced user interactions"
+   ]
+  },
+  {
+   "id": "innovation-and-entrepreneurship",
+   "name": "Innovation and entrepreneurship",
+   "order": 14,
+   "description": "Wave after wave of novel technologies—ranging from traditional information technologies and digital infrastructures to data-intensive systems and artificial intelligence—are continually enabling new products, services, processes, and modes of organizing. Innovations grounded in enterprise IT, mobile and distributed computing, platforms, analytics, generative AI, blockchain, Internet of Things, cloud computing, extended reality, and robotics are reshaping how value is created, captured, and governed across organizational and societal domains. At the same time, these technologies increasingly shape environmental footprints, labor relations, data governance, and social inclusion/ exclusion, highlighting their dual potential to advance sustainability and equity or to intensify resource consumption, surveillance, and inequality. Importantly, innovation and entrepreneurship increasingly differ not only by technological approach (e.g., IT-enabled, digitally enabled, data-driven, or AI-augmented), but also by value orientation and context . Corporate innovation, new venture creation, and platform entrepreneurship coexist with social innovation, public sector innovation, and community-based forms of entrepreneurship aimed at empowerment, inclusion, and socio-environmental sustainability. Digital and AI-enabled social innovation and social entrepreneurship, for example, illustrate how accessible technologies and emerging AI capabilities can support new forms of service delivery, coordination, and problem-solving—particularly in marginalized or resource-constrained or climate vulnerable settings. At the same time, the rapid diffusion of AI and platform-based business models raises critical challenges related to algorithmic opacity, bias, accountability, labor precarity, environmental costs of computation, and uneven access that demand careful scholarly attention. Across sectors such as healthcare, education, finance, retail, manufacturing, and community development, innovation processes themselves are becoming more open, distributed, and fluid. Work is increasingly virtualized, automated, and augmented, while platform-based forms of organizing and human–AI collaboration are reshaping creativity, coordination, and decision-making. These transformations can enable more inclusive participation and resource-efficient solutions, but they can also reinforce digital divides, shift risks to individuals, and obscure responsibility for social and environmental outcomes. Within this broader landscape, digitally enabled social intermediation highlights how socially embedded actors mobilize both simple IT and advanced AI technologies to bridge institutional gaps, orchestrate ecosystems, and expand participation in ways that can foster resilience, inclusion, and sustainable development. heterogeneous forms of innovation and entrepreneurship , differentiated by technology, organizing logic, and value creation goals. The Information Systems (IS) research community is uniquely positioned to address these issues. First, IS emphasizes socio-technical perspectives essential for understanding how IT-, digital-, data-, and AI-based innovations emerge and evolve in practice, including their unintended social and environmental consequences. Second, IS scholarship being inherently interdisciplinary, enabling theorization of innovation outcomes that extend beyond economic value to include empowerment, equity, participation, capability expansion, and ecological sustainability. We welcome interdisciplinary work with a clear contribution to IS, including conceptual, qualitative, quantitative, and computationally intensive research. We encourage studies that span corporate, entrepreneurial, public, and social contexts, and that examine ethical, gendered, environmental, and sustainability implications of innovation and entrepreneurship in an AI-enabled world, particularly research that explores how digital innovation and digital entrepreneurship can be designed, governed, and scaled to address grand societal challenges rather than exacerbate them.",
+   "topics": [
+    "IT-Enabled and Digital Innovation",
+    "Data-Driven, Analytics-Based, and AI-Enabled Innovation",
+    "Digital Product Development and Capability Building",
+    "New Forms of Organizing (e.g., platforms, ecosystems, etc.)",
+    "Corporate Innovation and Intrapreneurship",
+    "Technology Entrepreneurship and New Venture Creation",
+    "New Digital and AI-Enabled Business Models",
+    "Digital Social Innovation and Social Entrepreneurship",
+    "Digitally Enabled Social Intermediation and Inclusion"
+   ]
+  },
+  {
+   "id": "organizational-strategy-governance-and-transformation",
+   "name": "Organizational strategy, governance, and transformation",
+   "order": 15,
+   "description": "Artificial intelligence (AI) and other digital technologies and infrastructures are reshaping the foundations of organizational strategy, governance, and transformation at an unprecedented pace. Breakthroughs in predictive analytics, automation, and generative technologies are permeating business processes, altering decision-making, redefining organizational boundaries, and challenging long-held assumptions about how digital technologies create value. Firms now face both extraordinary opportunities and disruptive pressures as AI-enabled systems transform modes of organizing, governance mechanisms, and strategic alignment. The consumerization of IT and the widespread availability of powerful digital tools empower employees to adopt and implement systems with minimal oversight, accelerating innovation but also raising critical questions about risk management, accountability, and control. Simultaneously, digital platforms and ecosystems are revolutionizing how organizations interact with customers, partners, and competitors. Platform strategies demand careful navigation of interdependencies, balancing openness and control, stability and agility, and competing demands for value sharing. Emerging IoT infrastructures and intelligent devices further complicate governance as organizations deploy technologies across both physical and digital environments, from critical infrastructure to everyday consumer products. This period of profound digital transformation requires scholars and practitioners to revisit theories of strategic management, governance, and value creation. The diffusion of AI and related technologies amplifies societal and sustainability considerations, including ethical implications, workforce impacts, and the design of inclusive and resilient digital futures. This track invites original, high-quality research that advances our understanding of organizational strategy, governance, and transformation in the age of intelligent digital technologies. We welcome interdisciplinary perspectives from information systems, strategy, economics, and organizational theory, as well as diverse methodological approaches—qualitative, quantitative, experimental, computational, and design science. Submissions should deliver strong theoretical contributions and actionable insights for practice.",
+   "topics": [
+    "AI-enabled strategic decision-making",
+    "Governance challenges in autonomous systems",
+    "Risk management in AI-driven organizations",
+    "Employee empowerment through consumerized IT",
+    "Strategy and governance implications of digital platforms and ecosystems",
+    "Platform strategies and ecosystem governance",
+    "Balancing openness and control in digital platforms",
+    "IoT infrastructures and organizational transformation",
+    "Generative AI and the future of work",
+    "Ethical implications of AI in governance",
+    "AI-driven reconfiguration of organizational boundaries",
+    "Strategic alignment in digitally transformed firms",
+    "Societal impacts of intelligent digital technologies",
+    "Sustainability and resilience in AI ecosystems",
+    "Interdisciplinary approaches to AI governance",
+    "Design science contributions to AI-enabled transformation"
+   ]
+  },
+  {
+   "id": "platforms-sharing-economy-and-crowds",
+   "name": "Platforms, sharing economy, and crowds",
+   "order": 16,
+   "description": "Digital platforms have become a dominant organizational form for socio-economic activity, enabling new modes of value creation, exchange, and innovation at scale. The sharing economy allows individuals and organizations to exchange underutilized assets or resources for monetary gains at low transactional costs. Under this broad umbrella, platform-mediated value creation can stem from user-owned assets (e.g., Airbnb and Uber), or take place through the renting of company-owned resources (e.g., CitiBike and Lime). Fueling the explosion of the sharing economy are multi-sided digital platforms which, by connecting actors throughout the world for little marginal cost, facilitate interactions, transactions, and innovation in a seamless fashion across a variety of contexts: finance, entertainment, software development, dating, and transportation, to name a few. Many of these emerging business models would not have been possible without the growing societal transition into distributed modes of innovation and production, e.g., in the context of mobile apps, that leverage the capability of digital platforms and technological infrastructures to orchestrate the coordination of distributed and heterogeneous individuals and organizations. The sharing economy has also driven new ways of working because these platforms connect workers to people who will pay for tasks to be completed, as exemplified on Uber, DoorDash, and Upwork. Artificial intelligence (AI) is increasingly being used to coordinate and manage these connections, shape platform governance, as well as efficiently manage operations and pricing. The continued integration of AI into sharing economy apps gives rise to issues surrounding algorithmic management, trust, privacy, and security as AI coordinates and controls, and in doing so absorbs massive quantities of data. We welcome papers that examine questions relating to the above topics from diverse perspectives, which include but are not limited to different theoretical orientations, methodological approaches, and levels of analysis. We encourage work that provides insights into the future of digital platforms, the sharing economy, and crowd-based modes of innovation and production.",
+   "topics": [
+    "New theoretical perspectives and novel methodological approaches for researching digital platform, the sharing economy, and crowd-based modes of innovation and production",
+    "Platform-enabled business models underlying the sharing economy, and crowd-based modes of innovation and production",
+    "Digital platforms, sharing economy, and crowd-based modes of entrepreneurship, crowdfunding, crowdsourcing, innovation, and production, including in highly regulated industries, such as healthcare or education",
+    "Efficiency, fairness, and inclusivity of digital platforms, the sharing economy, and crowd-based models",
+    "Reputation, trust, security, and privacy in the sharing economy, digital platforms, and crowd-based models",
+    "Economic, ecological, legal, regulatory, geo-political, social, and technological implications of the sharing economy, digital platforms, and crowd-based models",
+    "Individual decision-making in the sharing economy, digital platforms, and crowd-based models",
+    "Digital labor markets and management of workers with AI in the sharing economy",
+    "Deployment of AI on multi-sided platforms for facilitating crowd-based modes of innovation and production",
+    "Deployment of AI for efficiency, operations, and customer service on platforms, including utilizing AI platforms, data platforms, data spaces, and data work",
+    "Algorithmic governance and decision-making in digital platforms",
+    "Enterprise digital platforms and internal platformization strategies"
+   ]
+  },
+  {
+   "id": "iot-public-is-and-infrastructures",
+   "name": "IoT, public IS, and infrastructures",
+   "order": 17,
+   "description": "The “IoT, Public IS, and Infrastructure” track examines the critical role of the Internet of Things (IoT), along with associated digital infrastructures and platforms, in transforming public sector services, governance, and societal development. As governments worldwide increasingly deploy vast networks of interconnected physical devices and other advanced technologies (e.g., AI) to support various public initiatives, it is essential to understand the potential and challenges these systems bring to public administration and critical infrastructure. This track seeks contributions investigating the design, implementation, use, and impact of public IS enabled by IoT and other digital technology and infrastructure. We are interested in how these technologies are transforming traditional public administration, enhancing service delivery, creating public value, and fostering inclusion. Given the immense, real-time data generated by IoT devices, the track is particularly interested in submissions exploring how artificial intelligence (AI) and big data analytics are leveraged to drive innovation in public infrastructure. We welcome studies on predictive maintenance, AI-powered decision-making in urban planning, and the governance challenges of using IoT-derived data in public service delivery. We encourage submissions across different methodologies and research designs, including case studies, field experiments, design science, and theoretical work. Cross-disciplinary perspectives grounded in IS and intersecting with fields like economics, political science, and sociology are also welcome. Overall, this track seeks to create a comprehensive dialogue on the strategic role, managerial challenges, and societal impact of integrating IoT into public sector information systems and critical infrastructure.",
+   "topics": [
+    "The design, architecture, and deployment of infrastructure and platforms in government and public organizations.",
+    "The use of IoT, AI, big data, blockchain and mixed reality technologies for smart city and smart community development and governance.",
+    "Data governance, security, and privacy challenges surrounding the collection, ownership, and use of sensor data in public spaces.",
+    "Ethical implications and accountability of AI/IoT-driven decision-making, including issues like algorithmic bias and digital surveillance.",
+    "The role of IoT and public digital infrastructure in advancing public sector sustainability and addressing climate change and environmental monitoring.",
+    "Digital inclusion and the social/economic impacts of IoT and public IS adoption on various societal groups.",
+    "New organizational and business models for public agencies managing and monetizing IoT data and public digital platforms.",
+    "Digital transformation in government and public services",
+    "Advances in theories and concepts of infrastructure studies",
+    "AI in public infrastructure: Opportunities and risks",
+    "Governance of large-scale public IS projects",
+    "Digital inclusion and accessibility in public services",
+    "Cybersecurity and privacy concerns in public IS",
+    "Data governance in public sector information systems",
+    "Cross-sector collaborations and digital public goods",
+    "Open government data and transparency initiatives",
+    "Public trust and legitimacy in digital government platforms",
+    "Public-private partnerships in IS infrastructure development",
+    "User-centric design of IoT-enabled service platforms"
+   ]
+  },
+  {
+   "id": "healthcare-and-wellbeing",
+   "name": "Healthcare and wellbeing",
+   "order": 18,
+   "description": "Healthcare and wellbeing are being reshaped by digital technologies and data-intensive practices. Beyond clinical care, information systems (IS) are central for healthcare administration and are becoming increasingly central to supporting healthy lifestyles and illness prevention, social connectedness, and overall wellbeing. Across scales, from large health systems to wellbeing apps and wearable devices, IS is transforming healthcare and wellbeing. Digital health and wellbeing applications including health record systems, telehealth, remote monitoring, mobile platforms, VR/AR, and robotics continue to transform care delivery, patient and user experiences and expectations, and the relationship between people and technologies. These developments call for new empirical insights, theoretical advances, and critical reflection on how IS can support or complicate efforts toward healthier and more fulfilling lives. IS is also an integral part of healthcare administration, allowing healthcare leaders to efficiently manage their organizations, and scholars to diligently examine the impact of various policies on both clinical and non-clinical outcomes. AI and advanced analytics further transform this landscape by shaping decision-making and providing new forms of clinical support and personalized engagement. They also come with potential in automating administrative workload on healthcare professionals and allowing more focus on patient care. These technologies hold great promise, but at the same time, they intensify debates around human oversight, professional roles, and the values that guide their design and use. As wellbeing becomes a more explicit goal for health systems and societies, dedicated digital technologies increasingly start taking part in people’s everyday lives. These developments highlight the need to understand how wellbeing technologies shape identity, relationships, autonomy, and people’s sense of agency in managing their health and daily life. This track welcomes innovative research examining the opportunities, challenges, and consequences of IS, data, and digital technologies for both healthcare and wellbeing. Submissions may draw on qualitative, quantitative, computational, conceptual, design science, and mixed-method approaches.",
+   "topics": [
+    "Design, implementation, governance, and evaluation of healthcare and wellbeing information systems and related policies.",
+    "AI including generative AI in healthcare administration,, clinical, public health, mental health, and wellbeing contexts",
+    "Wellbeing-oriented digital systems for lifestyle support, mental health, stress management, and behavior change",
+    "Economics and value creation in digital health and wellbeing ecosystems",
+    "Digital therapeutics (DTx): design, adoption, adherence, and evaluation",
+    "New digital models of care delivery and wellbeing services",
+    "User engagement, empowerment, personalization, and digital self-management",
+    "Personalized and precision medicine and personalized wellbeing interventions using multimodal data",
+    "Robotics, VR/AR, and immersive technologies supporting care, rehabilitation, and wellbeing",
+    "Health and wellbeing oriented online communities, and peer-based support",
+    "IS theorizing in healthcare and wellbeing contexts",
+    "Conceptual papers, systematic reviews, meta-analyses, and evidence syntheses related to digital health and wellbeing"
+   ]
+  },
+  {
+   "id": "economics-of-digital-social-and-mobile-commerce",
+   "name": "Economics of digital, social, and mobile commerce",
+   "order": 19,
+   "description": "Digital and mobile commerce have transformed how businesses and consumers interact, conduct transactions, and engage in the marketplace. From early online shopping to today’s advanced AI-enabled platforms, the commerce landscape has evolved significantly, driven by rapid technological advancements. Among these, Artificial Intelligence (AI) plays a pivotal role in enhancing customer experiences and operational efficiency. AI-powered algorithms enable businesses to analyze vast datasets, uncovering consumer preferences and behavior. This fuels personalized recommendations and targeted advertising, enhancing marketing effectiveness in both digital and mobile contexts. Deep learning further expands AI’s potential, powering chatbots, virtual assistants, and natural language processing tools that offer real-time customer support and personalized engagement. In parallel, technologies like Augmented Reality (AR) and Virtual Reality (VR) are redefining the shopping experience. AR lets customers visualize products in their real-world settings, bridging the gap between physical and online retail. VR offers immersive virtual storefronts that elevate user interaction and engagement. This track seeks papers that enhance our understanding of the economics around the design, implementation, and evaluation of emerging digital, social, and mobile technologies in various online, offline, and omni-channel contexts, including business-to-business and business-to-consumer commerce, location-driven advertising and targeting, omni-channel commerce and marketing, and live-commerce. This track welcomes papers that further our knowledge of the technical, behavioral, design, strategic and economic issues associated with digital and mobile commerce. It encompasses studies on IT-enabled transactions among consumers, businesses, and other organizations, as well as the use of digital and mobile technologies for commerce within and across organizational boundaries. The track focuses on classical Econ of IS methods (econometric analyses, analytical modelling, experiments) but are receptive to submissions from all IS traditions and methodological approaches (including, for instance, qualitative studies, design science, conceptual work).",
+   "topics": [
+    "AI Shopping agents and Agent-Based Commerce",
+    "Augmented reality and virtual reality applications in mobile and e-commerce",
+    "Auctions and pricing mechanisms in digital and mobile commerce",
+    "Artificial intelligence and deep learning applications in digital and mobile commerce",
+    "Creator economy and social commerce",
+    "Big data analytics in digital and mobile commerce",
+    "Economic impact of AI and Generative AI in digital commerce",
+    "E-commerce and e-marketing in video games and the metaverse",
+    "IT-enabled digital and mobile supply chain operation and management",
+    "Mobile banking, mobile payment, and mobile advertising, marketing, and promotions",
+    "Livestream commerce and voice-based commerce",
+    "Location-based and context-aware services",
+    "Omni-channel operations empowered by digital and mobile technologies",
+    "Online consumer behavior and collaborative consumption through digital and mobile technologies",
+    "Web3, cryptocurrencies, NFT and their intersection with e-commerce/m-commerce"
+   ]
+  },
+  {
+   "id": "policy-and-regulations",
+   "name": "Policy and Regulations",
+   "order": 20,
+   "description": "Discourse on digitalization is shifting from uncritical enthusiasm for technological innovation toward a more sober recognition of its risks and unintended consequences. While the transformative potential of digital technologies across all sectors of society is indisputable, it is increasingly questioned whether their development and deployment alleviate—or instead exacerbate—persistent challenges such as inequality, injustice, human rights violations, social polarization, environmental degradation, and global conflict. These concerns have fueled growing critique and the introduction of digital policies and regulations. Rapid advances in artificial intelligence further intensify these challenges and significantly complicate policymaking and regulatory efforts. Globally, approaches to digital governance differ markedly. Major regions such as China, the US, and Europe pursue distinct regulatory strategies, ranging from rights-based protections and market fairness to industrial competitiveness and state control. Numerous governments, international organizations, and professional bodies have introduced policies aimed at safeguarding fundamental rights, supporting human well-being, ensuring fair competition, and mitigating specific technological risks. However, technological innovation consistently outpaces policy and regulatory cycles, creating a widening governance gap when regulatory regimes are not designed to be adaptive. This gap is exacerbated by technical complexity—particularly in AI, cloud computing, and encryption—which produces expertise asymmetries that make policymakers reliant on the very actors they seek to regulate. As a result, regulation is often shaped by industry feasibility or government interests rather than broader societal needs, and enforcement disproportionately targets smaller actors while dominant platforms remain largely unaffected. Consequently, pervasive digitalization continues largely unchecked, accompanied by growing concentration of power, opaque and biased algorithmic decision-making, expanded surveillance, and persistent accountability deficits. These developments underscore the urgent need for research into forward-looking, effective, and democratically legitimate approaches to digital governance. This track invites scholarly contributions that advance theoretical, empirical, and design-oriented understanding of digital policy and regulation, critically assess existing governance regimes, and explore how policy can foster an inclusive, equitable, and sustainable digital society.",
+   "topics": [
+    "Global AI regulation and policy",
+    "Technology implementation in high stakes scenarios",
+    "Cybersecurity regulations",
+    "Feasibility of technology policy integration",
+    "Automated policy development",
+    "Automated and computationally facilitated policy auditing",
+    "Automated compliance development",
+    "User perceptions for policy implementation and guidance",
+    "Role of foreign entities of concern in technology policy development",
+    "Semiconductor supply chain policies and regulations",
+    "Civil society participation in policy making and regulatory processes",
+    "Novel digital governance approaches ensuring accountability and democratic legitimacy",
+    "Governance approaches preventing discrimination, surveillance, and socio-technical exclusion through digital systems and ensure protection of human rights, fairness and justice",
+    "Policies and regulations effectively promoting innovation",
+    "Comparative and interdisciplinary studies that address cross-jurisdictional regulation (differences among regulatory approaches in China, the US, EU, etc. and their implications)",
+    "How can we, the IS community contribute to innovative thinking and distinct knowledge and expertise in and around policy and regulation? What are the notable examples of such contributions?"
+   ]
+  },
+  {
+   "id": "digital-learning-and-pedagogy",
+   "name": "Digital learning and pedagogy",
+   "order": 21,
+   "description": "Emerging technologies create new pedagogical opportunities and challenges, enabling innovative uses of digital learning environments and technologies in educational institutions and beyond. Rapidly advancing capabilities in domains such as data analytics, cloud computing, as well as machine learning, generative AI, and other applications of artificial intelligence, offer the opportunity to change not only what we teach (curriculum) but how we teach (pedagogy). Many institutions strive to strike the right balance between traditional, online, and hybrid learning scenarios, offering viable options for diverse learning contexts. In addition, faculty and universities are struggling to develop effective strategies for integrating generative AI into pedagogical practices and developing effective ethical policies governing their use. The Digital Learning and IS Curricula track offers IS scholars the opportunity to present and exchange conceptual ideas, implementations, and empirical findings on curriculum, pedagogy, learning environments, and pedagogical innovations, utilizing technologies to enhance teaching and learning in educational institutions and beyond. Advancements in generative AI are enabling new teaching methods, requiring updates to learning objectives and approaches, while also raising ethical challenges. This track invites scholarly work from multiple theoretical and methodological perspectives.",
+   "topics": [
+    "Use of AI and analytics to understand and support learning",
+    "Ethical issues related to the use of AI in education",
+    "Pedagogical and curricular innovations in IS education",
+    "Digital learning environments",
+    "Game-based learning and teaching",
+    "Leveraging technologies for pedagogy innovations",
+    "Innovations in IS curriculum development",
+    "IS education on emerging topics (analytics, crypto, security, AI, IoT, and more)",
+    "IS education on emerging domains (FinTech, e-Government, healthcare, and more)",
+    "Issues in IS education (global, ethical, social, and more)",
+    "International teaching across institutions (changing the world of academia)",
+    "Personalization of learning through digital technologies",
+    "Value of online/distance/hybrid education",
+    "Accreditation and certification",
+    "The role of micro credentials and certificates in higher education",
+    "Theories of learning and pedagogy",
+    "Interdisciplinarity of IS education",
+    "Teaching cases",
+    "Experiential/service learning studies",
+    "Employer expectations of IS students",
+    "Approaches for life-long learning and continuous education for IS professionals",
+    "Development of IS curricula for non-academic stakeholders (e.g., executive education, life-long learning, and professional development)"
+   ]
+  },
+  {
+   "id": "research-methods-theories-and-philosophy",
+   "name": "Research methods, theories, and philosophy",
+   "order": 22,
+   "description": "We invite IS scholars to engage with fundamental questions of the nature and purpose of IS research and theory, to critically reflect on methodological developments and philosophical underpinnings, and to envisage advances that would inspire future scholarly endeavors. As a fundamentally interdisciplinary field focused on digital technologies, IS research is particularly well-suited to both (1) thinking about philosophical, particularly epistemological, issues around digital phenomena from a variety of perspectives, and (2) novel methods and approaches, including those driven by AI and machine learning, that are emerging to explore and analyze these phenomena. With the rapid advancement of AI and its integration into various aspects of society and technology, we invite scholars to explore how AI is transforming the field of IS, both in terms of research methodologies and the philosophical underpinnings of the discipline. We encourage scholars to actively engage with future possibilities and challenges in the field of IS. By envisioning and theorizing about what lies ahead, we can collectively shape the trajectory of digital technologies and their impact on society.",
+   "topics": [
+    "Advancements of design science, computational, qualitative, quantitative and future-orientated methods seeking to enable new insights into contemporary digital phenomena.",
+    "Emerging debates on ontological, epistemological, axiological, and ethical foundations of IS and other social sciences, particularly in the context of AI and its pervasive influence on organisations and society.",
+    "The emerging sources of data/evidence in IS research—opportunities for innovative methodologies and improvements in the process of theorizing, theory building, and theory testing.",
+    "IS research shaping future societal outcomes: Investigating how IS can address upcoming global challenges such as sustainability, ethical AI, and digital inclusion, and the role of IS in crafting desirable futures.",
+    "Philosophy of IS: reflections on the philosophical foundations of IS research, and related opportunities and limitations.",
+    "Opportunities to bring in theories and methodologies from other fields that may lend themselves well to answering questions of interest to IS researchers."
+   ]
+  },
+  {
+   "id": "social-media",
+   "name": "Social media",
+   "order": 23,
+   "description": "Social media is increasingly reshaping individuals, organizations, and societies. For individuals, social media sites serve as primary platforms for news, self-expression, interpersonal communication, social support, and community engagement. Organizations use these platforms to support customer interactions, develop and foster brand loyalty, leverage data-informed decision-making, expand global reach, and facilitate internal knowledge sharing. At the societal level, social media provides foundational infrastructure for social movements, public service efforts, civic participation, and political activism. Despite their potential to enhance social connections, propel organisational collaboration, and contribute to global dialogue, collective action, and societal cohesion, social media platforms are increasingly in the public and scholarly spotlight, with debates highlighting their (unintended) negative consequences. On the societal level, research shows that while digital platforms enable new forms of collective action, online social activism faces unique challenges, including sustaining momentum, coordinating internally, and countering efforts by state or corporate actors to monitor, disrupt, or co-opt digital organizing. Further, concerns include the loss of trust in traditional information sources, the spread of misinformation and disinformation, and political polarization fueled by algorithmic filtering and echo chambers. On the individual level, the rise of hate speech and cyberbullying, privacy breaches through extensive data collection, and mental health issues dominate public and scientific discourse, calling for new interventions and novel approaches to platform regulation and governance. Especially, short-form video platforms such as TikTok and YouTube Shorts are reshaping how users, particularly young people, consume information, raising concerns about their potential to fuel addiction and problematic usage patterns. In recent years, social media platforms have become the primary venues for deploying advanced automated technologies. Research has examined social bots and their significant role in shaping online discussions. These bots have evolved from simple automated scripts to sophisticated agents that can mimic human behavior with remarkable effectiveness. The integration of generative AI has significantly expanded bot capabilities, not only by increasing autonomy but also by enabling the creation of deceptive content such as deepfakes and, more recently, low-quality yet viral content called AI slop that floods online spaces, overwhelming other content. In the organizational context, the shift to hybrid and remote work has increased reliance on digital workplace platforms. Indeed, organizations now use a wide range of digital collaboration tools, including project management systems, document-sharing platforms, instant messaging applications, and videoconferencing systems. While workers often have significant autonomy in choosing which tools to use, the growing reliance on these platforms creates unique challenges for organizational coordination, knowledge management, and workers’ well-being, blurring the boundaries between work and private life and leading to technostress. Existing research on enterprise social media (ESM) examines how these platforms shape organizational boundaries, power structures, and knowledge flows. As ESM and related technologies evolve, there is ongoing interest in examining their affordances, constraints for knowledge work, and implications for workers’ motivation, productivity, and mental health. There are persistent calls to regulate social media, with strong opinions both for and against such regulation. Responding to these calls, governments and special interest groups increasingly seek to influence and control social media platforms. These efforts, however, are inherently complex, as regulators face tensions between censorship and free speech, and between users’ right to self-expression and the detrimental impact of idealized self-presentations on others. While social media was once hailed as a medium that could support democratic discourse, there are growing concerns regarding the power of a few large technology companies to control and steer public dialogue. In fact, research on the broad societal implications of social media platforms increasingly views them as a contested terrain for power and influence. Inspired by the conference theme on digital collaboration and coexistence, this track aims to advance the development of new and impactful research perspectives on social media, including its role in users’ daily lives, organisational transformation, and societal outcomes. We aim to highlight issues, practices, and solutions relevant to the design of social media platforms, governance mechanisms, and regulatory measures. Methodologically, we solicit contributions employing a variety of designs, including, but not limited to, literature reviews, qualitative, mixed-methods, cross-sectional, computational, longitudinal, and experimental studies, as well as novel approaches to measuring social media use. Together, we hope that our track will contribute to a better understanding of the role social media plays in a modern society, including its benefits, (unintended) risks, and potential trajectories of future development.",
+   "topics": [
+    "Generative Content, Deepfakes, Synthetic Media, and AI Slop",
+    "Algorithmic Influence and Platform Dynamics",
+    "Algorithmic Management: Implications for Users and Regulators",
+    "Social Media for Collective Action and Digital Activism",
+    "Enterprise Social Media and Digital Workplace Transformation",
+    "Creator Economy",
+    "Social Media Engagement: Antecedents and Consequences",
+    "Measuring Social Media Use (e.g., logged use; trace data; screentime)",
+    "Cyberbullying, Doxxing, Trolling, Hate Speech, and Online Incivility",
+    "Emotional, Cognitive, Social, and Behavioral Outcomes of Social Media Use",
+    "Social Media Addiction",
+    "Loneliness in the Age of Social Media",
+    "Dark Patterns and Addictive Designs",
+    "Designing Interventions for Better Well-Being",
+    "Digital Detox and Social Media Abstinence"
+   ]
+  }
+ ]
+}

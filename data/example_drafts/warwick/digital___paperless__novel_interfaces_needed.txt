@@ -1,0 +1,9 @@
+Digital ≠ paperless: novel interfaces needed to address global health challenges
+
+### Summary box
+
+Health information systems (HISs) are considered a core component or building block of health systems. HISs are expected to support evidence-informed decision making at each level.1 However, there are two implicit, and commonly held assumptions that are important to challenge: first, that information systems require information technology; and second, that information technology has no place for paper.
+
+While information systems are typically expected to involve the use of technology, the distinction between ‘information need’, and the technology to support the need, is important to consider especially (but not only) in low/middle-income country (LMIC) health system contexts with diverse constraints to technology implementation and use. Not every ‘information need’ requires the use of information technology, and many goals like quality improvement (QI) of health services may be achievable without the additional complexity of technology implementation.2 3
+
+When the decision to use information technology is made, ‘going digital’ is commonly equated with ‘going paperless’.4 5 Going paperless is challenging, especially for healthcare delivery in resource limited settings.6 Two important hurdles to digital (including mobile) health in LMICs stand out: (a) costs and complexities around infrastructure (not only of devices like computers/tablets/phones, but also backup power systems, networking, support, maintenance and procurement), and (b) costs and complexities around training (of diverse health system actors, …
